@@ -81,12 +81,12 @@ ln -s ~/.claude/plugins/cache/logtheta-skills/*/plugins/obsidian-ai-tools/skills
 
 The skill expects these files in your vault:
 - `Templates/AI Tool Template.md` -- the note template (see `references/ai-tool-template.md` for the format)
-- `AI Tools/Inbox/` -- directory where new notes are created
+- `AI Tools/` -- directory where new notes are created
 
 Create the template and directory if they don't exist:
 ```bash
 cd /path/to/your/vault
-mkdir -p "AI Tools/Inbox" Templates
+mkdir -p "AI Tools" Templates
 ```
 
 Then copy the template:

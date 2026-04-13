@@ -42,11 +42,11 @@ Cross-reference what the transcript says with what you find on the web. The tran
 
 Read these two files to understand the exact format:
 - `Templates/AI Tool Template.md` at the vault root -- the template structure to match
-- `AI Tools/Inbox/InVideo AI.md` -- an existing note for writing style, detail level, and formatting conventions
+- `AI Tools/InVideo AI.md` -- an existing note for writing style, detail level, and formatting conventions
 
 ## Step 4: Create the note
 
-Write the note to `AI Tools/Inbox/<Tool Name>.md` using the template with ALL fields filled in:
+Write the note to `AI Tools/<Tool Name>.md` using the template with ALL fields filled in:
 
 **Frontmatter rules:**
 - `type`: always `ai-tool`
