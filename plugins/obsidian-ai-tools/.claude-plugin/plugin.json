@@ -1,0 +1,8 @@
+{
+  "name": "obsidian-ai-tools",
+  "description": "Claude Code skill for creating AI tool notes in an Obsidian Vault from YouTube videos and web pages",
+  "version": "0.1.0",
+  "author": {
+    "name": "logtheta"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logtheta-skills",
+  "description": "Personal Claude Code skills by logtheta",
+  "plugins": {
+    "obsidian-ai-tools": {
+      "path": "plugins/obsidian-ai-tools",
+      "description": "Create AI tool notes in Obsidian Vault from YouTube videos and web pages",
+      "version": "0.1.0"
+    }
+  }
+}
